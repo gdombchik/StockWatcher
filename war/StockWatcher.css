@@ -50,3 +50,12 @@ body {
 .negativeChange {
   color: red;
 }
+
+/* Error Message */
+.negativeChange {
+	color: red;
+}
+
+.errorMessage {
+    color: red;
+}
